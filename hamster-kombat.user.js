@@ -2,11 +2,11 @@
 // @name         Hamster Kombat Web
 // @namespace    http://tampermonkey.net/
 // @version      1.2
-// @description  Запуск Hamster Kombat в браузере
-// @author       amir-homous
+// @description  Launching Hamster Kombat in the browser
+// @author       Homous
 // @match        *://*.hamsterkombat.io/*
 // @grant        none
-// @icon         https://hamsterkombat.io/images/icons/hamster-coin.png
+// @icon         http://89.106.206.41/HAMSTERICON.png/
 // @downloadURL  https://github.com/amir-homous/Hamster-Kombat/raw/main/hamster-kombat.user.js
 // @updateURL    https://github.com/amir-homous/Hamster-Kombat/raw/main/hamster-kombat.user.js
 // @homepage     https://github.com/amir-homous/Hamster-Kombat
@@ -14,7 +14,6 @@
 
 (function() {
     'use strict';
-
 
     function getRandomiOSUserAgent() {
         const iOSVersions = ['14_0', '14_1', '14_2', '14_3', '14_4', '14_5', '14_6', '14_7', '14_8',
@@ -31,9 +30,9 @@
 
     const newUserAgent = getRandomiOSUserAgent();
 
-    // Функция для замены URL скрипта
+    // Function to replace the script URL
     function replaceScriptUrl() {
-        // Список URL-адресов для замены
+        // List of URLs to replace
         const urlsToReplace = [
             'https://hamsterkombat.io/js/telegram-web-app.js',
             'https://app.hamsterkombat.io/js/telegram-web-app.js',
@@ -41,17 +40,17 @@
         ];
         const newUrl = 'https://ktnff.tech/hamsterkombat/telegram-web-app.js';
 
-        // Получаем все теги <script> на странице
+        // Get all <script> tags on the page
         const scripts = document.getElementsByTagName('script');
         for (let script of scripts) {
-            // Проверяем, содержит ли src один из URL-адресов для замены
+            // Check if src contains one of the URLs to replace
             if (urlsToReplace.includes(script.src)) {
-                // Создаем новый тег <script> с новым URL
+                // Create a new <script> tag with the new URL
                 const newScript = document.createElement('script');
                 newScript.src = newUrl;
                 newScript.type = 'text/javascript';
 
-                // Заменяем старый тег на новый
+                // Replace the old tag with the new one
                 script.parentNode.replaceChild(newScript, script);
                 console.log('Script URL replaced:', newScript.src);
             }
@@ -74,7 +73,7 @@
         get: function() { return 5; }
     });
 
-    // Наблюдатель за изменениями в DOM
+    // Observer for changes in the DOM
     const observer = new MutationObserver(function(mutations) {
         mutations.forEach(function(mutation) {
             if (mutation.addedNodes.length) {
@@ -83,15 +82,15 @@
         });
     });
 
-    // Настройки наблюдателя
+    // Observer settings
     const config = {
         childList: true,
         subtree: true
     };
 
-    // Начинаем наблюдение за изменениями в DOM
+    // Start observing changes in the DOM
     observer.observe(document.body, config);
 
-    // Первоначальный запуск замены URL
+    // Initial launch of the URL replacement
     replaceScriptUrl();
 })();
