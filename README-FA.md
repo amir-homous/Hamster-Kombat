@@ -1,11 +1,9 @@
 
 ## Hamster Kombat وب
 
-![Hamster Kombat Icon](https://example.com/creative-icon.png)
-
 > [!NOTE]
-> - تماس: [تلگرام](https://t.me/a_homous)
-> - کانال: [کانال تلگرام](https://t.me/homous_airdrops)
+> - Contacts: [تلگرام](https://t.me/a_homous)
+> - channel: [کانال تلگرام](https://t.me/homous_airdrops)
 > - 🇪🇳 README in english available [here](README.md)
 
 ---
