@@ -4,7 +4,7 @@
 > - توضیحات به زبان فارسی [اینجا](README-FA.md)
 ---
 ## How to run
-- Install extension in your browser [Chrome](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=be) | [FireFox](https://addons.mozilla.org/firefox/addon/violentmonkey/) | [Edge]([https://addons.mozilla.org/firefox/addon/violentmonkey/](https://microsoftedge.microsoft.com/addons/detail/eeagobfjdenkkddmbclomhiblgggliao)
+- Install extension in your browser [Chrome](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=be) | [FireFox](https://addons.mozilla.org/firefox/addon/violentmonkey/) | [Edge](https://microsoftedge.microsoft.com/addons/detail/eeagobfjdenkkddmbclomhiblgggliao)
 - In order for **Hamster Kombat** to open in a browser, install [this script](https://github.com/amir-homous/Hamster-Kombat/raw/main/hamster-kombat.user.js)
 - To install **autoclicker** install [this script](https://github.com/amir-homous/Hamster-Kombat/raw/main/hamster-autoclicker.user.js)
 - Open [Bot Hamster Kombat](https://t.me/hamstEr_kombat_bot/start?startapp=kentId665346234) and run the game
