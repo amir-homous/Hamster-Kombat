@@ -4,10 +4,10 @@
 > - توضیحات به زبان فارسی [اینجا](README-FA.md)
 ---
 ## How to run
-- Install extension in your browser [Violentmonkey](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=be)
+- Install extension in your browser [Chrome](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=be) | [FireFox](https://addons.mozilla.org/firefox/addon/violentmonkey/) | [Edge]([https://addons.mozilla.org/firefox/addon/violentmonkey/](https://microsoftedge.microsoft.com/addons/detail/eeagobfjdenkkddmbclomhiblgggliao)
 - In order for **Hamster Kombat** to open in a browser, install [this script](https://github.com/amir-homous/Hamster-Kombat/raw/main/hamster-kombat.user.js)
 - To install **autoclicker** install [this script](https://github.com/amir-homous/Hamster-Kombat/raw/main/hamster-autoclicker.user.js)
-- Open [Bot Hamster Kombat](https://web.telegram.org/k/#?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3Dhamster_kombat_bot%26appname%3Dstart%26startapp%3DkentId2475526) and run the game
+- Open [Bot Hamster Kombat](https://t.me/hamstEr_kombat_bot/start?startapp=kentId665346234) and run the game
 
 ## ![Result](result.gif)
 ---
@@ -35,18 +35,16 @@
 > - [W-Coin](https://github.com/amir-homous/W-Coin)
 ---
 > [!IMPORTANT] 
-> Donation
+> :currency_exchange: Donation
 > 
 > We accept the following cryptocurrencies:
 > 
-> - **TON**: 
+> - **TON**: UQDZqUe-1mohthA1EEa04M3K07DE5srrP5e30072Mho9LoMV
 > 
-> - **USDT**(TRC20): 
+> - **USDT**(TRC20): TX6rvvad2EHQMcK6wXbYQTvbZqavSaGLGT
 > 
-> - **USDT**(TON): 
+> - **USDT**(TON): UQDZqUe-1mohthA1EEa04M3K07DE5srrP5e30072Mho9LoMV
 > 
-> - **NOTCOIN**(TON): 
-> 
-> - **BTC**: 
+> - **BTC**: bc1q9s83juj9mg9glv3hq6wsu0e02trrsd5elaskly
 > 
 > Donations will be used to maintain the project.
