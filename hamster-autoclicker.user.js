@@ -4,6 +4,7 @@
 // @match        *://*.hamsterkombat.io/*
 // @version      1.2
 // @description  12.06.2024, 21:43:52
+// @author       amir-homous
 // @grant        none
 // @icon         https://hamsterkombat.io/images/icons/hamster-coin.png
 // @downloadURL  https://github.com/amir-homous/Hamster-Kombat/raw/main/hamster-autoclicker.user.js
