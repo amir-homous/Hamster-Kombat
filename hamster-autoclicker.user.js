@@ -6,7 +6,7 @@
 // @description  12.06.2024, 21:43:52
 // @author       Homous
 // @grant        none
-// @icon         http://89.106.206.41/HAMSTERICON.png/
+// @icon         http://89.106.206.41/homous/HAMSTERICON.png
 // @downloadURL  https://raw.githubusercontent.com/amir-homous/Hamster-Kombat/main/hamster-autoclicker.user.js
 // @updateURL    https://raw.githubusercontent.com/amir-homous/Hamster-Kombat/main/hamster-autoclicker.user.js
 // @homepage     https://github.com/amir-homous/Hamster-Kombat
