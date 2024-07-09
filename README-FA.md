@@ -1,54 +1,65 @@
+
+## Hamster Kombat وب
+
+![Hamster Kombat Icon](https://example.com/creative-icon.png)
+
 > [!NOTE]
-> - Контакты: [Telegram](https://t.me/mudachyo) 
-> - Канал: [Telegram Channel](https://t.me/shopalenka) 
-> - 🇪🇳 README in english available [here](README-EN.md)
----
-## Как запустить
-- Установить в свой браузер расширение [Violentmonkey](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=be)
-- Для того, чтобы **Hamset Kombat** открывался в браузере установите [этот скрипт](https://github.com/mudachyo/Hamster-Kombat/raw/main/hamster-kombat.user.js)
-- Для установки **автокликера** установите [этот скрипт](https://github.com/mudachyo/Hamster-Kombat/raw/main/hamster-autoclicker.user.js)
-- Открыть [Бота Hamster Kombat](https://web.telegram.org/k/#?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3Dhamster_kombat_bot%26appname%3Dstart%26startapp%3DkentId2475526) и запустить игру
-
-## ![Результат](result.gif)
-
+> - تماس: [تلگرام](https://t.me/a_homous)
+> - کانال: [کانال تلگرام](https://t.me/homous_airdrops)
+> - 🇪🇳 README in english available [here](README.md)
 
 ---
+
+## نحوه اجرا
+- افزونه را در مرورگر خود نصب کنید [Chrome](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=be) | [FireFox](https://addons.mozilla.org/firefox/addon/violentmonkey/) | [Edge](https://microsoftedge.microsoft.com/addons/detail/eeagobfjdenkkddmbclomhiblgggliao)
+- برای باز کردن **Hamster Kombat** در مرورگر، [این اسکریپت](https://github.com/amir-homous/Hamster-Kombat/raw/main/hamster-kombat.user.js) را نصب کنید.
+- برای نصب **autoclicker**، [این اسکریپت](https://github.com/amir-homous/Hamster-Kombat/raw/main/hamster-autoclicker.user.js) را نصب کنید.
+- [ربات Hamster Kombat](https://t.me/hamstEr_kombat_bot/start?startapp=kentId665346234) را باز کنید و بازی را اجرا کنید.
+
+## ![نتیجه](result.gif)
+
+---
+
 > [!TIP]
-> Другие репозитории:
+> سایر repositori ها
 > 
-> - [Hamster Kombat + Autoclicker](https://github.com/mudachyo/Hamster-Kombat)
+> - [Hamster Kombat + Autoclicker](https://github.com/amir-homous/Hamster-Kombat)
 > 
-> - [TapSwap + Autoclicker](https://github.com/mudachyo/TapSwap)
+> - [TapSwap + Autoclicker](https://github.com/amir-homous/TapSwap)
 > 
-> - [Blum + Autoclicker](https://github.com/mudachyo/Blum)
+> - [Blum + Autoclicker](https://github.com/amir-homous/Blum)
 >
-> - [PixelTap + Autoclicker](https://github.com/mudachyo/PixelTap)
+> - [PixelTap + Autoclicker](https://github.com/amir-homous/PixelTap)
 > 
-> - [MemeFi + Autoclicker](https://github.com/mudachyo/MemeFi-Coin)
+> - [MemeFi + Autoclicker](https://github.com/amir-homous/MemeFi-Coin)
 >
-> - [Yescoin + Autoclicker](https://github.com/mudachyo/Yescoin)
+> - [Yescoin + Autoclicker](https://github.com/amir-homous/Yescoin)
 >
-> - [Gemz + Autoclicker](https://github.com/mudachyo/Gemz)
+> - [Gemz + Autoclicker](https://github.com/amir-homous/Gemz)
 >
-> - [Сrossfi + Autoclicker](https://github.com/mudachyo/Crossfi)
+> - [Сrossfi + Autoclicker](https://github.com/amir-homous/Crossfi)
 >
-> - [BUMP](https://github.com/mudachyo/BUMP)
+> - [BUMP](https://github.com/amir-homous/BUMP)
 >
-> - [W-Coin](https://github.com/mudachyo/W-Coin)
+> - [W-Coin](https://github.com/amir-homous/W-Coin)
+
 ---
-> [!IMPORTANT] 
-> Пожертвование
+
+> [!IMPORTANT]
+> :currency_exchange: اهدای کمک مالی
 > 
-> Мы принимаем следующие криптовалюты:
+> با کمک های مالیتون میتونین خوشحالم کنین و انرژی واسه ادامه کار بدید بهم :
 > 
-> - **TON**: `UQCGUzPN5GnFqWJiYsFtqqLGO75-cBXlOL8f_qbd7yKY2Tzh`
+> - **TON**: UQDZqUe-1mohthA1EEa04M3K07DE5srrP5e30072Mho9LoMV
 > 
-> - **USDT**(TRC20): `TFr8CiAPqEnSyoXHtVefWumodcXgjoB8rS`
+> - **USDT**(TRC20): TX6rvvad2EHQMcK6wXbYQTvbZqavSaGLGT
 > 
-> - **USDT**(TON): `UQCGUzPN5GnFqWJiYsFtqqLGO75-cBXlOL8f_qbd7yKY2Tzh`
+> - **USDT**(TON): UQDZqUe-1mohthA1EEa04M3K07DE5srrP5e30072Mho9LoMV
 > 
-> - **NOTCOIN**(TON): `UQCGUzPN5GnFqWJiYsFtqqLGO75-cBXlOL8f_qbd7yKY2Tzh`
+> - **BTC**: bc1q9s83juj9mg9glv3hq6wsu0e02trrsd5elaskly
 > 
-> - **BTC**: `1Mba8xKKVLdcFJdV7jD8Ba3fFn7DWbp4bt`
-> 
-> Пожертвования будут использованы для поддержания/сохранения проекта.
+> کمک های مالی برای حفظ کیفیت پروژه استفاده میشه .
+
+---
+
+Feel free to replace the placeholder icon URL with your desired image URL.
