@@ -14,25 +14,25 @@
 > [!TIP]
 > Other repositories:
 > 
-> - [Hamster Kombat + Autoclicker](https://github.com/mudachyo/Hamster-Kombat)
+> - [Hamster Kombat + Autoclicker](https://github.com/amir-homous/Hamster-Kombat)
 > 
-> - [TapSwap + Autoclicker](https://github.com/mudachyo/TapSwap)
+> - [TapSwap + Autoclicker](https://github.com/amir-homous/TapSwap)
 > 
-> - [Blum + Autoclicker](https://github.com/mudachyo/Blum)
+> - [Blum + Autoclicker](https://github.com/amir-homous/Blum)
 >
-> - [PixelTap + Autoclicker](https://github.com/mudachyo/PixelTap)
+> - [PixelTap + Autoclicker](https://github.com/amir-homous/PixelTap)
 > 
-> - [MemeFi + Autoclicker](https://github.com/mudachyo/MemeFi-Coin)
+> - [MemeFi + Autoclicker](https://github.com/amir-homous/MemeFi-Coin)
 >
-> - [Yescoin + Autoclicker](https://github.com/mudachyo/Yescoin)
+> - [Yescoin + Autoclicker](https://github.com/amir-homous/Yescoin)
 >
-> - [Gemz + Autoclicker](https://github.com/mudachyo/Gemz)
+> - [Gemz + Autoclicker](https://github.com/amir-homous/Gemz)
 >
-> - [Сrossfi + Autoclicker](https://github.com/mudachyo/Crossfi)
+> - [Сrossfi + Autoclicker](https://github.com/amir-homous/Crossfi)
 >
-> - [BUMP](https://github.com/mudachyo/BUMP)
+> - [BUMP](https://github.com/amir-homous/BUMP)
 >
-> - [W-Coin](https://github.com/mudachyo/W-Coin)
+> - [W-Coin](https://github.com/amir-homous/W-Coin)
 ---
 > [!IMPORTANT] 
 > Donation
