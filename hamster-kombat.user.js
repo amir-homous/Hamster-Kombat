@@ -6,7 +6,7 @@
 // @author       Homous
 // @match        *://*.hamsterkombat.io/*
 // @grant        none
-// @icon         http://89.106.206.41/HAMSTERICON.png/
+// @icon         http://89.106.206.41/homous/HAMSTERICON.png
 // @downloadURL  https://github.com/amir-homous/Hamster-Kombat/raw/main/hamster-kombat.user.js
 // @updateURL    https://github.com/amir-homous/Hamster-Kombat/raw/main/hamster-kombat.user.js
 // @homepage     https://github.com/amir-homous/Hamster-Kombat
