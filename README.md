@@ -7,32 +7,31 @@
 - Install extension in your browser [Chrome](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=be) | [FireFox](https://addons.mozilla.org/firefox/addon/violentmonkey/) | [Edge](https://microsoftedge.microsoft.com/addons/detail/eeagobfjdenkkddmbclomhiblgggliao)
 - In order for **Hamster Kombat** to open in a browser, install [this script](https://github.com/amir-homous/Hamster-Kombat/raw/main/hamster-kombat.user.js)
 - To install **autoclicker** install [this script](https://github.com/amir-homous/Hamster-Kombat/raw/main/hamster-autoclicker.user.js)
-- Open [Bot Hamster Kombat](https://t.me/hamstEr_kombat_bot/start?startapp=kentId665346234) and run the game
+- Open [MemeFi Bot](https://t.me/memefi_coin_bot?start=r_f1bd514d5e) and run the game
 
-## ![Result](result.gif)
 ---
 > [!TIP]
 > Other repositories:
 > 
-> - [Hamster Kombat + Autoclicker](https://github.com/amir-homous/Hamster-Kombat)
+> - [Hamster Kombat + Autoclicker](https://github.com/homous/Hamster-Kombat)
 > 
-> - [TapSwap + Autoclicker](https://github.com/amir-homous/TapSwap)
+> - [TapSwap + Autoclicker](https://github.com/homous/TapSwap)
 > 
-> - [Blum + Autoclicker](https://github.com/amir-homous/Blum)
+> - [Blum + Autoclicker](https://github.com/homous/Blum)
 >
-> - [PixelTap + Autoclicker](https://github.com/amir-homous/PixelTap)
+> - [PixelTap + Autoclicker](https://github.com/homous/PixelTap)
 > 
-> - [MemeFi + Autoclicker](https://github.com/amir-homous/MemeFi-Coin)
+> - [MemeFi + Autoclicker](https://github.com/homous/MemeFi-Coin)
 >
-> - [Yescoin + Autoclicker](https://github.com/amir-homous/Yescoin)
+> - [Yescoin + Autoclicker](https://github.com/homous/Yescoin)
 >
-> - [Gemz + Autoclicker](https://github.com/amir-homous/Gemz)
+> - [Gemz + Autoclicker](https://github.com/homous/Gemz)
 >
-> - [Сrossfi + Autoclicker](https://github.com/amir-homous/Crossfi)
+> - [Сrossfi + Autoclicker](https://github.com/homous/Crossfi)
 >
-> - [BUMP](https://github.com/amir-homous/BUMP)
+> - [BUMP](https://github.com/homous/BUMP)
 >
-> - [W-Coin](https://github.com/amir-homous/W-Coin)
+> - [W-Coin](https://github.com/homous/W-Coin)
 ---
 > [!IMPORTANT] 
 > :currency_exchange: Donation
